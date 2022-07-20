@@ -1,0 +1,140 @@
+.header{
+    background-color: black;
+    height: 76.562px;
+}
+*{
+    margin: 0;
+}
+.head1{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: flex-end;
+    align-items: center;
+    vertical-align: center;
+    height: 100%;
+}
+.icon{
+    cursor: pointer;
+    padding-top: 28px;
+    height: 102px;
+    width:180px;
+    margin-left: 0px;
+}
+.home{
+    cursor: pointer;
+    color: red;
+    margin-left: 450px;
+    margin-right: 100px;
+}
+.head2{
+    cursor: pointer;
+    margin-right: 100px;
+}
+.head2:hover{
+    color:red;
+}
+.background{
+    height:555.95px;
+    background-image: url(images/contest.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.center{
+    height:462.25px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.icon1{
+    margin-top: 20px;
+    height:282.25px;
+    width:388.5px;
+
+}
+.centertext{
+    margin-left: 30px;
+    width: 495.5px;
+    height:189px;
+    color: white;
+    padding-bottom: 120px;
+    
+}
+.font1{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+.font2{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17.9px;
+    line-height: 27px;
+    
+    
+}
+.background1{
+    height:728.45px;
+    background-image: url(images/packet.jpg);
+    background-position: center;
+    background-size: cover;;
+
+}
+.background2{
+    height:678.41px;
+    background-image: url(images/coffebeans.jpg);
+    background-position: center;
+    background-size: cover;;
+
+}
+
+.bottomtext{
+    
+    height: 225.6px;
+    width: 670.6px;
+    margin-top: 150px;
+    margin-left: 400px   
+}
+.text1{
+    color: white;
+     font-size: 54.6px;
+     font-weight: 800px;
+}
+.text2{
+    color: white;
+    font-size: 20.02px;
+    text-align: center;
+}
+.footer{
+    height:57.6px;
+    background-color: black;
+    color: white;
+    padding-left: 180px;
+    padding-top: 40px;
+    font-size: 12.32px;
+}
+
+.font3{
+    font-size: 124.26px;
+    color: red;
+
+}
+.font4{
+    color: black;
+    font-size: 22.26px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    line-height: 32px;
+    
+}
+.font5{
+   height:320px;
+   width:710px;
+   margin-left: 720px;
+   padding-top: 120px;
+   
+}
